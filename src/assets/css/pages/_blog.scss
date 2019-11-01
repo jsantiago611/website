@@ -1,11 +1,11 @@
-.posts {
+// .posts {
 
-}
+// }
 
 .posts-count {
   li {
     position: relative;
-    padding: 20px 0 20px 40px;
+    padding: 10px 0 10px 40px;
     font-size: 22px;
     counter-increment: start-from -1;
 
@@ -30,9 +30,6 @@
 }
 
 .section--blog-item {
-  max-width: 720px;
-  margin: 0 auto;
-
   p {
     margin-bottom: $standard-spacing / 2;
   }
